@@ -1,6 +1,6 @@
 # shiroScan
 `shiroScan.exe url`
-![image](https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png)
+![image](https://github.com/XingYun-Cloud/shiroScan/blob/master/shiroScan.png)
 
 ## 思路
 使用`ysoserial`生成8种`payload`，每种`payload`起一个线程
