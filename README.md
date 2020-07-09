@@ -28,3 +28,9 @@
 
 ---
 #### 请勿用作非法用途，作者不承担法律责任
+
+---
+using 
+ - jarToDll：`https://www.cnblogs.com/codeyu/archive/2012/08/14/2639084.html`
+ - key：`https://wiki.0-sec.org/#/md`
+ - ysoserial：`https://github.com/frohoff/ysoserial`
