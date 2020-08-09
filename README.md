@@ -3,6 +3,7 @@
 
 ![image](https://github.com/XingYun-Cloud/shiroScan/blob/master/shiroScan.png)
 
+<s>
 ## 思路
 使用`ysoserial`生成8种`payload`，每种`payload`起一个线程
 
@@ -20,6 +21,7 @@
  - 在`dnslog`收到请求后把被解析的域名拿出来分割为数组
  - 取正确的`payload`和`key`，例如(取`payload`)：`payloadList[dnslogResult.split('.')[0]]`
 
+</s>
 ---
 ## 缺点
 目前只支持带`ping`命令的被检测机器（因为使用的是`ping`命令出网检测）
