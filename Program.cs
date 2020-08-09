@@ -489,4 +489,3 @@ namespace shiroScan
         }
     }
 }
-
