@@ -5,6 +5,7 @@
 
 ## 更新
 不再依赖dnslog，不出网也可以检测key
+
 参考：<a href="https://mp.weixin.qq.com/s?__biz=MzIzOTE1ODczMg==&mid=2247485052&idx=1&sn=b007a722e233b45982b7a57c3788d47d">一种另类的shiro检测方式</a>
 
 ---
